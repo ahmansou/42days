@@ -1,0 +1,7 @@
+Credentials cache: API:1713
+        Principal: ahmansou@1337.MA
+
+  Issued                Expires               Principal
+Jan  9 14:21:00 2019  Jan 10 00:21:00 2019  krbtgt/1337.MA@1337.MA
+Jan  9 14:21:02 2019  Jan 10 00:21:00 2019  ldap/ldap-master.1337.ma@1337.MA
+Jan  9 14:21:02 2019  Jan 10 00:21:00 2019  HTTP/iscsi.1337.ma@1337.MA
